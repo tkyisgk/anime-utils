@@ -1,3 +1,3 @@
-# ANIME UTILS
+# Text Anime Utils
 
 * TBD
